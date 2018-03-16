@@ -10,6 +10,8 @@ html {
     font-family: "Helvetica Neun", Helvetica, arial, sans-serif;
     color: #111;
     padding: 48px 24px 24px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body {
